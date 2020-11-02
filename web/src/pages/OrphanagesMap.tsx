@@ -21,7 +21,9 @@ function OrphanagesMap() {
           <span>São Paulo</span>
         </footer>
       </aside>
-      <div></div>
+      <div>
+                
+      </div>
 
       <Link to="" className="create-orphanage">
         <FiPlus size={32} color="#FFF"/>
