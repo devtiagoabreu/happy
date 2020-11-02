@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Tiago de Abreu :wave: 
+Feito com ♥ by Tiago de Abreu durante a 3ª semana Next Level Week da Rocketseat, trilha OmniStack :wave: 
